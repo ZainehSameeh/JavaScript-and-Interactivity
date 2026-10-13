@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 8px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+li {
+    margin: 10px 0;
+}
+
+p {
+    text-decoration: underline;
+}
+
+#total-task {
+    color: purple;
+    font-weight: bold;
+}

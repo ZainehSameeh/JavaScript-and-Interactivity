@@ -1,0 +1,12 @@
+.counter-container {
+    text-align: center;
+    align-items: center;
+}
+
+#plus {
+    background-color: green;
+}
+
+#minus {
+    background-color: red;
+}
